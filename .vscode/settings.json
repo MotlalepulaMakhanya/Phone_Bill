@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:PhoneBill_SQL}/data_plan.db",
+            "name": "price_plan"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
